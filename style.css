@@ -1,0 +1,29 @@
+body {
+  
+  color: white;
+  background: #f43232;
+}
+  
+    .heading{
+
+  width: 80%;
+  font-size: 22px;
+  }
+  
+  .container {
+  text-align: center;
+
+  }
+
+  #camera{
+
+width: 350px;
+height: 350px;
+  }
+
+  .name_of_objects,
+  #results_object_name,
+  #results_object_accuracy {
+
+color: rgb(0, 0, 0);
+  }
